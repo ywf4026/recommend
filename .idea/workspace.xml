@@ -128,7 +128,7 @@
       <file leaf-file-name="UserDAOImpl.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/biz/src/main/java/com/alibaba/webx/recommend/dal/impl/UserDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="10" selection-start="186" selection-end="186" vertical-scroll-proportion="0.306163">
+            <state line="7" column="9" selection-start="185" selection-end="185" vertical-scroll-proportion="0.306163">
               <folding />
             </state>
           </provider>
@@ -895,7 +895,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/biz/src/main/java/com/alibaba/webx/recommend/dal/impl/UserDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="186" selection-end="186" vertical-scroll-proportion="0.306163">
+        <state line="7" column="9" selection-start="185" selection-end="185" vertical-scroll-proportion="0.306163">
           <folding />
         </state>
       </provider>
