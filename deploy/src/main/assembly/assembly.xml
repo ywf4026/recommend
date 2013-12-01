@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GBK"?>
+<assembly xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.1">
+    <id></id>
+    <baseDirectory>deploy.war</baseDirectory>
+    <formats>
+        <format>tar.gz</format>
+    </formats>
+    <destName>deploy.war.tgz</destName>
+   
+    <fileSets>
+        <fileSet>
+            <directory>../web/target/recommend</directory>
+            <outputDirectory></outputDirectory>
+            <includes>
+                <include>**/**</include>
+            </includes>
+        </fileSet>
+    </fileSets>
+</assembly>

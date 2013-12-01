@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deploy/deploy.iml" filepath="$PROJECT_DIR$/deploy/deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommend.iml" filepath="$PROJECT_DIR$/recommend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biz/recommend-biz.iml" filepath="$PROJECT_DIR$/biz/recommend-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/recommend-web.iml" filepath="$PROJECT_DIR$/web/recommend-web.iml" />
+    </modules>
+  </component>
+</project>
+
